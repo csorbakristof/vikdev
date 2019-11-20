@@ -1,6 +1,6 @@
 ---
 permalink: /index.html
-menu: true
+menu: Kezdőoldal
 title: VIKDev
 ---
 
