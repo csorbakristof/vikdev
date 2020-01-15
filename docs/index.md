@@ -4,7 +4,8 @@ menu: Kezdőoldal
 title: VIKDev
 ---
 
-# VIK Dev: Oktatásmódszertani Szimpózium 2020. Január 30.
+# VIK Dev: Oktatásmódszertani Szimpózium
+# (ELHALASZTVA)
 
 Mivel az oktatástechnológiában mindig van hova fejlődni és ráadásul a karon jópáran kísérletezgetünk ilyesmivel, január 30-ára szervezünk egy kari szintű "oktatásmódszertani szimpóziumot".
 
@@ -17,7 +18,7 @@ A rendezvény célja, eredményei:
 
 A cél egy kellemes tempójú, kb. fél napos esemény. Kezdés 10-kor, délben közös ebéd (vagy elmegyünk valahova, vagy szervezünk ennivalót, ez létszámfüggő), aztán kora délután még beszélgetés és konstruktív vitázás.
 
-# Program
+# Program (ELHALASZTVA!)
 A program még bőven fog változni, ez a mindenkori aktuális terv.
 
 - Farkas László: Távolról oktatott tantárgy tapasztalatai
